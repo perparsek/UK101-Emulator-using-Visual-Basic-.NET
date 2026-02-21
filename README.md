@@ -4,7 +4,7 @@ A software emulator of the **Compukit UK101** — a single-board 6502 home compu
 
 This emulator recreates the experience in a Windows desktop application.
 
-![UK101 Boot](.github/screenshot.png)
+![UK101 Boot](images/screenshot.png)
 
 ## Features
 
